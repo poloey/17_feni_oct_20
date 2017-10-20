@@ -9,7 +9,7 @@ $world = ' world';
 echo $hello . $world //output: hello world
 ~~~
 
-### `include`, `include_once`, `require`, `require_once` is used for including any file to other files
+### `include`, `include_once`, `require`, `require_once` use for including any file to other files
 ~~~php
 include 'header.php';
 ~~~
